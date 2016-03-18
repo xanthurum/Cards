@@ -1,5 +1,8 @@
+import java.util.Random;
 
 public class Cards {
+	
+
 
 	public Cards() {
 		// TODO Auto-generated constructor stub
@@ -7,8 +10,9 @@ public class Cards {
 
 	public static void main(String[] args) 
 	{
-		System.out.println("x");
-
+		Deck deck = new Deck();
 	}
-
 }
+	
+	
+
